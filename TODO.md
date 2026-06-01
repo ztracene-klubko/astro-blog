@@ -12,6 +12,7 @@
 - [ ] Rework README
 - [ ] deeper dive into JS or TS
 - [ ] deeper dive into CSS
+- [ ] create first design
 - [ ] CI/CD
 - [ ] Deploy site on github pages ?
 
