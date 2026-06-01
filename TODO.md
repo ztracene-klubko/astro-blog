@@ -2,7 +2,7 @@
 
 ## This week
 
-- [ ] Astro tutorial part 3
+- [x] Astro tutorial part 3
 - [ ] Astro tutorial part 4
 
 ## Backlog
